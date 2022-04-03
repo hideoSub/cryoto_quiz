@@ -7,7 +7,7 @@ const questionElm = document.getElementById('question');
 const a_text = document.getElementById('a-text');
 const b_text = document.getElementById('b-text');
 const c_text = document.getElementById('c-text');
-const d_text = document.getElementById('d-text');
+// const d_text = document.getElementById('d-text');
 
 // 送信ボタン
 const submitBtn = document.getElementById('submit');
