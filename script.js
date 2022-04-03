@@ -65,7 +65,7 @@ function checkScore() {
   if (score == quizDataJp.length) {
     return '全問正解！おめでとう！';
   } else {
-    return '曲を聞いてもう一回挑戦しよう！';
+    return '楽しんでいただけましたか';
   }
 }
 
